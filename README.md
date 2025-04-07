@@ -65,3 +65,8 @@ pip install langchain transformers sentence-transformers faiss-cpu unstructured 
 
 ## 准备知识库文档
 将你的 text, pdf, word 文档放到 `data` 目录中
+
+## Reference
+博客指引：
+
+https://blog.csdn.net/qq_45193872/article/details/145749282?fromshare=blogdetail&sharetype=blogdetail&sharerId=145749282&sharerefer=PC&sharesource=qq_45193872&sharefrom=from_link
