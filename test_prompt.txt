@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"query": "出一道鸡兔同笼问题的初中数学题"}' http://localhost:8080/chat/
